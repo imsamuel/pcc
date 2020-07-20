@@ -8,6 +8,7 @@ lstrip(), rstrip(), and strip().
 """
 
 name = "  Samuel    "
+
 print(name)
 print("\t" + name.lstrip())
 print("\n" + name.rstrip())
