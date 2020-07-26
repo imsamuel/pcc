@@ -1,0 +1,4 @@
+In Python you can...
+Model real-world objects using classes
+Have positional and keyword arguments
+Have variable non-keyword and keyword arguments  
